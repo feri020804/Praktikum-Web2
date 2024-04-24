@@ -7,5 +7,4 @@
  
  $dsn = "mysql:host=$host;dbname=$db";
  
- $dbh = new PDO($dsn, $user, $pass)
-?>
+ $dbh = new PDO($dsn, $user, $pass);
