@@ -9,7 +9,7 @@ Route::get('/', function () {
 });
 
 Route::get('/salam', function () {
-    return "Hai, Saya Feri Ardiansyah siap belajar Laravel 11";
+    return "Hai, Saya Hanna Feri Ardiansyah belajar Laravel 11";
 });
 
 Route::get('/profil', function () {
